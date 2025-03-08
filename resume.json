@@ -1,0 +1,488 @@
+{
+  "basics": {
+    "url": {
+      "href": "https://github.com/Jing-yilin",
+      "label": "GitHub Profile"
+    },
+    "name": "Yilin Jing",
+    "email": "yilin.jing.ai@outlook.com",
+    "phone": "+44 07534809484",
+    "picture": {
+      "url": "https://easyimage.yilin.uk/i/2025/03/07/11d73dv-0.png",
+      "size": 64,
+      "effects": {
+        "border": false,
+        "hidden": false,
+        "grayscale": false
+      },
+      "aspectRatio": 1,
+      "borderRadius": 0
+    },
+    "headline": "MSc Applied Computational Science & Engineering Student | AI Research Platform Developer | Serial Entrepreneur",
+    "location": "Imperial College London, Department of Earth Science & Engineering",
+    "customFields": []
+  },
+  "metadata": {
+    "css": {
+      "value": "* {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "format": "a4",
+      "margin": 18,
+      "options": {
+        "breakLine": true,
+        "pageNumbers": true
+      }
+    },
+    "notes": "",
+    "theme": {
+      "text": "#000000",
+      "primary": "#dc2626",
+      "background": "#ffffff"
+    },
+    "layout": [
+      [
+        [
+          "profiles",
+          "summary",
+          "experience",
+          "education",
+          "patents",
+          "projects",
+          "volunteer",
+          "references",
+          "custom.ielp1qqk3mx7d3wfblacggxd"
+        ],
+        [
+          "skills",
+          "interests",
+          "certifications",
+          "awards",
+          "publications",
+          "languages"
+        ]
+      ]
+    ],
+    "template": "kakuna",
+    "typography": {
+      "font": {
+        "size": 14,
+        "family": "IBM Plex Serif",
+        "subset": "latin",
+        "variants": [
+          "regular",
+          "italic",
+          "600"
+        ]
+      },
+      "hideIcons": false,
+      "lineHeight": 1.5,
+      "underlineLinks": true
+    }
+  },
+  "sections": {
+    "awards": {
+      "id": "awards",
+      "name": "Awards",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "custom": {
+      "ielp1qqk3mx7d3wfblacggxd": {
+        "id": "ielp1qqk3mx7d3wfblacggxd",
+        "name": "Custom Section",
+        "items": [],
+        "columns": 1,
+        "visible": true,
+        "separateLinks": true
+      }
+    },
+    "skills": {
+      "id": "skills",
+      "name": "Skills",
+      "items": [
+        {
+          "id": "clsz9qqk3mx7d3wfblacggxa",
+          "name": "Programming Languages",
+          "description": "Python, JavaScript, C++, Shell Scripting",
+          "keywords": [],
+          "level": "",
+          "visible": true
+        },
+        {
+          "id": "clsz9qqk3mx7d3wfblacggxb",
+          "name": "Technologies",
+          "description": "Docker, Nix, Git, Cloud Computing (AWS/GCP), LLMs, API Integration",
+          "keywords": [],
+          "level": "",
+          "visible": true
+        },
+        {
+          "id": "clsz9qqk3mx7d3wfblacggxc",
+          "name": "Research Skills",
+          "description": "Experimental Design, Data Analysis, Scientific Writing, Reproducible Research Practices",
+          "keywords": [],
+          "level": "",
+          "visible": true
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "summary": {
+      "id": "summary",
+      "name": "Summary",
+      "columns": 1,
+      "content": "MSc student in Applied Computational Science & Engineering at Imperial College London with a focus on developing innovative AI solutions for scientific research. Currently developing an AI-powered automated research platform that addresses reproducibility challenges in computational science through containerization and AI assistance. Seeking to combine entrepreneurial vision with technical expertise to revolutionize how interdisciplinary research is conducted.",
+      "visible": true,
+      "separateLinks": true
+    },
+    "profiles": {
+      "id": "profiles",
+      "name": "Profiles",
+      "items": [
+        {
+          "id": "clsz9qqk3mx7d3wfblacggxd",
+          "network": "GitHub",
+          "username": "Jing-yilin",
+          "url": {
+            "href": "https://github.com/Jing-yilin",
+            "label": "GitHub Profile"
+          },
+          "icon": "github",
+          "visible": true
+        },
+        {
+          "id": "clsz9qqk3mx7d3wfblacggxe",
+          "network": "LinkedIn",
+          "username": "Yilin Jing",
+          "url": {
+            "href": "https://www.linkedin.com/in/yilin-jing-346903273/",
+            "label": "LinkedIn Profile"
+          },
+          "icon": "linkedin",
+          "visible": true
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "projects": {
+      "id": "projects",
+      "name": "Projects",
+      "items": [
+        {
+          "id": "clsz9qqk3mx7d3wfblacggxf",
+          "name": "E2M (Everything to Markdown)",
+          "description": "Created an open-source Python library that converts various file types (doc, docx, epub, html, pdf, ppt, pptx, mp3, m4a) into Markdown format. The project has gained over 1,000 stars on GitHub and is widely used for preparing data for Retrieval-Augmented Generation (RAG) and model training.",
+          "highlights": [
+            "Designed a modular parser-converter architecture for handling multiple file formats",
+            "Implemented Docker containerization for easy deployment",
+            "Built a RESTful API service for integration with other applications",
+            "Created comprehensive documentation and examples for users"
+          ],
+          "keywords": [
+            "Python",
+            "Markdown",
+            "Document Conversion",
+            "LLM Data Preparation",
+            "API Development",
+            "Docker"
+          ],
+          "startDate": "2024-06",
+          "endDate": "2024-09",
+          "date": "2024-06 - 2024-09",
+          "summary": "An open-source Python library for converting various file types to Markdown format with over 1,000 GitHub stars.",
+          "url": {
+            "href": "https://github.com/wisupai/e2m",
+            "label": "E2M GitHub Repository"
+          },
+          "visible": true
+        },
+        {
+          "id": "clsz9qqk3mx7d3wfblacggxg",
+          "name": "AI-Powered Presentation Generation Platform",
+          "description": "Developed an innovative platform that leverages AI to automatically generate and customize PowerPoint presentations. The system utilizes LLMs and AI agents for content generation and styling, while implementing advanced CSS and frontend technologies for precise visual customization.",
+          "highlights": [
+            "Architected an AI agent system that coordinates content generation, layout design, and style customization",
+            "Implemented LLM-driven CSS style generation for creating personalized presentation themes",
+            "Developed a dynamic frontend interface for real-time presentation preview and editing",
+            "Created an automated style recommendation system based on user preferences and presentation context"
+          ],
+          "keywords": [
+            "LLMs",
+            "AI Agents",
+            "Frontend Development",
+            "CSS",
+            "PowerPoint Generation",
+            "UI/UX Design"
+          ],
+          "startDate": "2024-09",
+          "endDate": "2025-02",
+          "date": "2024-09 - 2025-02",
+          "summary": "An AI-powered platform that automates PowerPoint presentation creation with personalized styling and content generation capabilities.",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "visible": true
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "education": {
+      "id": "education",
+      "name": "Education",
+      "items": [
+        {
+          "id": "clsz9qqk3mx7d3wfblacggxh",
+          "institution": "Imperial College London",
+          "studyType": "MSc",
+          "area": "Applied Computational Science and Engineering",
+          "score": "",
+          "date": "2024-2025",
+          "location": "London, UK",
+          "summary": "Relevant Coursework: Machine Learning, Deep Learning, Data Science, Computational Mathematics",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "visible": true
+        },
+        {
+          "id": "clsz9qqk3mx7d3wfblacggxi",
+          "institution": "University of Sussex",
+          "studyType": "BEng",
+          "area": "Communications Engineering",
+          "score": "First-Class Honours",
+          "date": "2020-2024",
+          "location": "Brighton, UK",
+          "summary": "Relevant Coursework: Advanced Mathematics, Signal Processing, Machine Learning, Data Structures",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "visible": true
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "interests": {
+      "id": "interests",
+      "name": "Research Interests",
+      "items": [
+        {
+          "id": "clsz9qqk3mx7d3wfblacggxm1",
+          "name": "AI for Scientific Research",
+          "keywords": [
+            "LLMs in Research",
+            "Automated Experimentation",
+            "Research Reproducibility"
+          ],
+          "visible": true
+        },
+        {
+          "id": "clsz9qqk3mx7d3wfblacggxj",
+          "name": "Computational Science",
+          "keywords": [
+            "Scientific Computing",
+            "Simulation",
+            "High Performance Computing"
+          ],
+          "visible": true
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "languages": {
+      "id": "languages",
+      "name": "Languages",
+      "items": [
+        {
+          "id": "clsz9qqk3mx7d3wfblacggxk",
+          "name": "English",
+          "level": 4,
+          "description": "Professional",
+          "visible": true
+        },
+        {
+          "id": "clsz9qqk3mx7d3wfblacggxl",
+          "name": "Chinese",
+          "level": 5,
+          "description": "Native",
+          "visible": true
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "volunteer": {
+      "id": "volunteer",
+      "name": "Volunteering",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "experience": {
+      "id": "experience",
+      "name": "Experience",
+      "items": [
+        {
+          "id": "clsz9qqk3mx7d3wfblacggxp",
+          "company": "PAGEPEEK LTD",
+          "position": "Product Manager & Project Lead",
+          "date": "September 2024 - February 2025",
+          "location": "London, UK",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "summary": "<p>Led a cross-functional team of <strong>6 developers</strong> in developing an <strong>AI-powered PPT generation platform</strong>, focusing on <em>personalized presentation creation</em> through AI-generated styles.</p>",
+          "highlights": [
+            "<p>Managed and coordinated a team of <strong>6 frontend and backend developers</strong> to deliver an AI-powered presentation generation system</p>",
+            "<p>Architected and implemented <strong>AI-driven CSS style generation</strong> for personalized presentation themes</p>",
+            "<p>Led the development of <em>user-centric PPT generation features</em> that adapt to individual preferences and needs</p>",
+            "<p>Streamlined the development process and ensured efficient collaboration between frontend and backend teams</p>"
+          ],
+          "visible": true
+        },
+        {
+          "id": "clsz9qqk3mx7d3wfblacggxm",
+          "company": "WISUP AI LTD",
+          "position": "Founder & Lead Developer",
+          "date": "2023-09 - Present",
+          "location": "London, UK",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "summary": "<p>Founded <strong>Wisup AI</strong>, leading its development with registered entities in the UK and China. Specializes in <em>data processing tools</em> and <strong>AI-driven research automation</strong>. Created the E2M library, achieving over <strong>1,000 GitHub stars</strong>.</p>",
+          "highlights": [
+            "<p>Established a <strong>business presence</strong> in the UK and China</p>",
+            "<p>Developed the <strong>E2M library</strong> for file-to-Markdown conversion</p>",
+            "<p>Engineered a <em>modular architecture</em> for diverse parsers and converters</p>",
+            "<p>Implemented <strong>Docker-based solutions</strong> for streamlined installation</p>",
+            "<p>Authored detailed documentation and user examples</p>"
+          ],
+          "visible": true
+        },
+        {
+          "id": "clsz9qqk3mx7d3wfblacggxn",
+          "company": "DTECHTIVE LIMITED",
+          "position": "Data Scientist Full-time",
+          "date": "September 2023 - March 2024",
+          "location": "Shelton, England, UK",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "summary": "Led development of AI-powered data processing and visualization solutions.",
+          "highlights": [
+            "Webpage to Dataset: Developed a Python API that automatically converts webpages into structured datasets using LLMs (e.g., GPT-3.5). Solved key challenges in dataset traceability and missing value imputation through AI agent-based self-reflection and self-generation, enhancing my ability to combine AI with data processing.",
+            "Dataset Auto Visualization: Created a full-stack web application using Python, DuckDB, and Streamlit, allowing users to interact with, query, and visualize data using natural language. Proposed an AI-powered data field optimizer that categorizes, ranks, and verifies field values to enable efficient text-to-SQL conversion for datasets with over 1,000 fields."
+          ],
+          "visible": true
+        },
+        {
+          "id": "clsz9qqk3mx7d3wfblacggxo",
+          "company": "DTECHTIVE LIMITED",
+          "position": "Data Analyst Intern",
+          "date": "June 2023 - August 2023",
+          "location": "Shelton, England, UK",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "summary": "Developed data processing and analysis solutions for research papers.",
+          "highlights": [
+            "Arxiv to Dataset: Developed a system leveraging NLP techniques (e.g., Named Entity Recognition and information extraction models) and large language models (e.g., GPT-3.5, LLaMA2) to extract relevant papers from the arXiv database based on user intent. The system also processed data to build datasets that provided users with insights in specific domains. Achieved a data recall rate of 98% and dataset accuracy of 92%.",
+            "Full Stack App: Built both the frontend and backend of the project using Python, Langchain and NextJS, successfully delivering a product prototype."
+          ],
+          "visible": true
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "references": {
+      "id": "references",
+      "name": "References",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "publications": {
+      "id": "publications",
+      "name": "Publications",
+      "items": [
+        {
+          "id": "pub1",
+          "name": "Nanolayered graphene-based tunable terahertz metasurfaces as polarization converters and beam deflectors",
+          "publisher": "IEEE Conference on Telecommunications, Optics and Computer Science (TOCS)",
+          "date": "2022",
+          "authors": "M. Xie, Y. Jing, Y. Zheng",
+          "summary": "Research on tunable terahertz metasurfaces using graphene for polarization conversion and beam deflection applications. DOI: 10.1109/TOCS56154.2022.10016121",
+          "keywords": ["Terahertz", "Metasurface", "Polarization conversion", "Geometric phase", "Graphene"],
+          "url": {
+            "href": "https://doi.org/10.1109/TOCS56154.2022.10016121",
+            "label": "View on IEEE Xplore"
+          },
+          "visible": true
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "certifications": {
+      "id": "certifications",
+      "name": "Certifications",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "patents": {
+      "id": "patents",
+      "name": "Patents",
+      "items": [
+        {
+          "id": "pat1",
+          "name": "Method and System for Constructing a Data Structure Based on a Blockchain",
+          "issuer": "China National Intellectual Property Administration",
+          "date": "2023",
+          "number": "CN114896443A",
+          "summary": "Developed an innovative data structure construction method leveraging blockchain technology to ensure data integrity and traceability, enhancing security and transparency in digital transactions.",
+          "visible": true
+        },
+        {
+          "id": "pat2",
+          "name": "Intelligent Data Processing Method Based on Blockchain and Artificial Intelligence",
+          "issuer": "China National Intellectual Property Administration",
+          "date": "2023",
+          "number": "CN114897713A",
+          "summary": "Invented a novel intelligent data processing approach combining blockchain and AI to automate and optimize data handling processes, enhancing efficiency and accuracy in data management.",
+          "visible": true
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    }
+  }
+}
