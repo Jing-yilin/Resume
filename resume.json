@@ -18,7 +18,7 @@
       "aspectRatio": 1,
       "borderRadius": 0
     },
-    "headline": "MSc Applied Computational Science & Engineering Student | AI Research Platform Developer | Serial Entrepreneur",
+    "headline": "MSc Applied Computational Science & Engineering Student | Open Source Developer (1000+ GitHub Stars) | Serial Entrepreneur",
     "location": "Imperial College London, Department of Earth Science & Engineering",
     "customFields": []
   },
@@ -196,7 +196,7 @@
           ],
           "startDate": "2024-06",
           "endDate": "2024-09",
-          "date": "2024-06 - 2024-09",
+          "date": "June 2024 - September 2024",
           "summary": "An open-source Python library for converting various file types to Markdown format with over 1,000 GitHub stars.",
           "url": {
             "href": "https://github.com/wisupai/e2m",
@@ -224,11 +224,11 @@
           ],
           "startDate": "2024-09",
           "endDate": "2025-02",
-          "date": "2024-09 - 2025-02",
+          "date": "September 2024 - February 2025",
           "summary": "An AI-powered platform that automates PowerPoint presentation creation with personalized styling and content generation capabilities.",
           "url": {
-            "href": "",
-            "label": ""
+            "href": "https://pagepeek.ai/",
+            "label": "PagePeek AI Website"
           },
           "visible": true
         }
@@ -246,10 +246,10 @@
           "institution": "Imperial College London",
           "studyType": "MSc",
           "area": "Applied Computational Science and Engineering",
-          "score": "",
-          "date": "2024-2025",
+          "score": "Excellence in Modern Programming Methods & Computational Mathematics",
+          "date": "September 2024 - May 2025",
           "location": "London, UK",
-          "summary": "Relevant Coursework: Machine Learning, Deep Learning, Data Science, Computational Mathematics",
+          "summary": "Key Modules: Modern Programming Methods (A*), Computational Mathematics (A*), Data Science and Machine Learning (B), Deep Learning: Machine Learning with Neural Networks (B)",
           "url": {
             "href": "",
             "label": ""
@@ -262,7 +262,7 @@
           "studyType": "BEng",
           "area": "Communications Engineering",
           "score": "First-Class Honours",
-          "date": "2020-2024",
+          "date": "September 2020 - July 2024",
           "location": "Brighton, UK",
           "summary": "Relevant Coursework: Advanced Mathematics, Signal Processing, Machine Learning, Data Structures",
           "url": {
@@ -347,8 +347,8 @@
           "date": "September 2024 - February 2025",
           "location": "London, UK",
           "url": {
-            "href": "",
-            "label": ""
+            "href": "https://pagepeek.ai/",
+            "label": "PagePeek AI Website"
           },
           "summary": "<p>Led a cross-functional team of <strong>6 developers</strong> in developing an <strong>AI-powered PPT generation platform</strong>, focusing on <em>personalized presentation creation</em> through AI-generated styles.</p>",
           "highlights": [
@@ -363,13 +363,13 @@
           "id": "clsz9qqk3mx7d3wfblacggxm",
           "company": "WISUP AI LTD",
           "position": "Founder & Lead Developer",
-          "date": "2023-09 - Present",
+          "date": "September 2023 - Present",
           "location": "London, UK",
           "url": {
-            "href": "",
-            "label": ""
+            "href": "https://github.com/wisupai",
+            "label": "WISUP AI GitHub Organization"
           },
-          "summary": "<p>Founded <strong>Wisup AI</strong>, leading its development with registered entities in the UK and China. Specializes in <em>data processing tools</em> and <strong>AI-driven research automation</strong>. Created the E2M library, achieving over <strong>1,000 GitHub stars</strong>.</p>",
+          "summary": "<p>Founded <strong>Wisup AI</strong>, leading its development with registered entities in the UK and China. Specializes in <em>data processing tools</em> and <strong>AI-driven research automation</strong>. Created the E2M library, achieving over <strong>1,000+ GitHub stars</strong>.</p>",
           "highlights": [
             "<p>Established a <strong>business presence</strong> in the UK and China</p>",
             "<p>Developed the <strong>E2M library</strong> for file-to-Markdown conversion</p>",
@@ -386,14 +386,11 @@
           "date": "September 2023 - March 2024",
           "location": "Shelton, England, UK",
           "url": {
-            "href": "",
-            "label": ""
+            "href": "https://dtime.ai",
+            "label": "DTECHTIVE Website"
           },
-          "summary": "Led development of AI-powered data processing and visualization solutions.",
-          "highlights": [
-            "Webpage to Dataset: Developed a Python API that automatically converts webpages into structured datasets using LLMs (e.g., GPT-3.5). Solved key challenges in dataset traceability and missing value imputation through AI agent-based self-reflection and self-generation, enhancing my ability to combine AI with data processing.",
-            "Dataset Auto Visualization: Created a full-stack web application using Python, DuckDB, and Streamlit, allowing users to interact with, query, and visualize data using natural language. Proposed an AI-powered data field optimizer that categorizes, ranks, and verifies field values to enable efficient text-to-SQL conversion for datasets with over 1,000 fields."
-          ],
+          "summary": "Led development of AI-powered data processing and visualization solutions. (1) Webpage to Dataset: Developed a Python API that automatically converts webpages into structured datasets using LLMs, solving challenges in dataset traceability through AI agent-based self-reflection. (2) Dataset Auto Visualization: Created a full-stack web application using Python, DuckDB, and Streamlit for natural language data interaction, with an AI-powered field optimizer enabling text-to-SQL conversion for datasets with over 1,000 fields.",
+          "highlights": [],
           "visible": true
         },
         {
@@ -403,14 +400,11 @@
           "date": "June 2023 - August 2023",
           "location": "Shelton, England, UK",
           "url": {
-            "href": "",
-            "label": ""
+            "href": "https://dtime.ai",
+            "label": "DTECHTIVE Website"
           },
-          "summary": "Developed data processing and analysis solutions for research papers.",
-          "highlights": [
-            "Arxiv to Dataset: Developed a system leveraging NLP techniques (e.g., Named Entity Recognition and information extraction models) and large language models (e.g., GPT-3.5, LLaMA2) to extract relevant papers from the arXiv database based on user intent. The system also processed data to build datasets that provided users with insights in specific domains. Achieved a data recall rate of 98% and dataset accuracy of 92%.",
-            "Full Stack App: Built both the frontend and backend of the project using Python, Langchain and NextJS, successfully delivering a product prototype."
-          ],
+          "summary": "Developed data processing and analysis solutions for research papers. (1) Arxiv to Dataset: Created a system using NLP techniques and LLMs to extract relevant papers from arXiv based on user intent, achieving 98% data recall rate and 92% dataset accuracy. (2) Full Stack App: Built both frontend and backend using Python, Langchain and Streamlit, successfully delivering a product prototype.",
+          "highlights": [],
           "visible": true
         }
       ],
@@ -434,7 +428,7 @@
           "id": "pub1",
           "name": "Nanolayered graphene-based tunable terahertz metasurfaces as polarization converters and beam deflectors",
           "publisher": "IEEE Conference on Telecommunications, Optics and Computer Science (TOCS)",
-          "date": "2022",
+          "date": "November 2022",
           "authors": "M. Xie, Y. Jing, Y. Zheng",
           "summary": "Research on tunable terahertz metasurfaces using graphene for polarization conversion and beam deflection applications. DOI: 10.1109/TOCS56154.2022.10016121",
           "keywords": ["Terahertz", "Metasurface", "Polarization conversion", "Geometric phase", "Graphene"],
@@ -465,7 +459,7 @@
           "id": "pat1",
           "name": "Method and System for Constructing a Data Structure Based on a Blockchain",
           "issuer": "China National Intellectual Property Administration",
-          "date": "2023",
+          "date": "March 2023",
           "number": "CN114896443A",
           "summary": "Developed an innovative data structure construction method leveraging blockchain technology to ensure data integrity and traceability, enhancing security and transparency in digital transactions.",
           "visible": true
@@ -474,7 +468,7 @@
           "id": "pat2",
           "name": "Intelligent Data Processing Method Based on Blockchain and Artificial Intelligence",
           "issuer": "China National Intellectual Property Administration",
-          "date": "2023",
+          "date": "March 2023",
           "number": "CN114897713A",
           "summary": "Invented a novel intelligent data processing approach combining blockchain and AI to automate and optimize data handling processes, enhancing efficiency and accuracy in data management.",
           "visible": true
