@@ -5,7 +5,7 @@
       "label": "GitHub Profile"
     },
     "name": "Yilin Jing",
-    "email": "yilin.jing.ai@outlook.com",
+    "email": "yilin.jing@resciencelab.ai",
     "phone": "+44 07534809484",
     "picture": {
       "url": "https://easyimage.yilin.uk/i/2025/03/07/11d73dv-0.png",
@@ -137,7 +137,7 @@
       "id": "summary",
       "name": "Summary",
       "columns": 1,
-      "content": "MSc student in Applied Computational Science & Engineering at Imperial College London with a focus on developing innovative AI solutions for scientific research. Currently developing an AI-powered automated research platform that addresses reproducibility challenges in computational science through containerization and AI assistance. Seeking to combine entrepreneurial vision with technical expertise to revolutionize how interdisciplinary research is conducted.",
+      "content": "MSc student in Applied Computational Science & Engineering at Imperial College London and Founder of ReScience Lab, currently leading the development of an innovative canvas-based research platform designed to enhance research efficiency and inspire scientific innovation. Spearheading the creation of AI-powered tools that streamline the research workflow, from literature review to experimental design, while fostering collaborative interdisciplinary research. Combining deep technical expertise with entrepreneurial vision to transform how researchers conduct and share their work in the digital age.",
       "visible": true,
       "separateLinks": true
     },
@@ -340,6 +340,26 @@
       "id": "experience",
       "name": "Experience",
       "items": [
+        {
+          "id": "clsz9qqk3mx7d3wfblacggxq",
+          "company": "WISUP AI LTD",
+          "position": "Founder & CEO",
+          "date": "April 2025 - Present",
+          "location": "London, UK",
+          "url": {
+            "href": "https://resciencelab.ai/",
+            "label": "ReScience Lab Website"
+          },
+          "summary": "<p>Founded <strong>ReScience Lab</strong> as a fourth venture, creating an interdisciplinary scientific platform that makes complex research workflows intuitive and reproducible. Leading the development of <em>AI-powered tools</em> for fields like <strong>bioinformatics and medical informatics</strong>, guided by principles of <em>\"freedom over growth, sustainability over speed, life over work.\"</em></p>",
+          "highlights": [
+            "<p>Architected a <strong>canvas-based research platform</strong> designed to enhance research efficiency and inspire scientific innovation</p>",
+            "<p>Developed <strong>AI-powered research automation tools</strong> that streamline workflows from literature review to experimental design</p>",
+            "<p>Created an <em>interdisciplinary collaboration framework</em> fostering communication between different scientific fields</p>",
+            "<p>Implemented <strong>reproducible research practices</strong> ensuring transparency and reliability in scientific processes</p>",
+            "<p>Built specialized tools for <strong>bioinformatics and medical informatics</strong> applications</p>"
+          ],
+          "visible": true
+        },
         {
           "id": "clsz9qqk3mx7d3wfblacggxp",
           "company": "PAGEPEEK LTD",
